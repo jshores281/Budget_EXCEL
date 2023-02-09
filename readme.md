@@ -1,6 +1,6 @@
 
 
-# Expenses Excel sheet
+# Budget and Expenses Excel sheet
 
 ## Calulates your end of month net income after taxes, expenses and bills
 -----
