@@ -2,10 +2,21 @@
 
 # Expenses Excel sheet
 
-#### Calulates your end of month remains after taxes and expenses or bills
+## Calulates your end of month net income after taxes, expenses and bills
+-----
 
-#### Formulas used:
+### Formulas used in this excel:
 
-![chart1](https://user-images.githubusercontent.com/52839097/217922599-4f32d4c3-d46a-419c-916a-64d728d2057a.PNG)
+- Sum of all Bill and Incomes.
+    - =SUM(G12:G33)
+    - =SUM(I4:I7)
+- Tax deduction of varying percentage.
+    - =(G7-(H4*G4))
+- Difference from Income and True bill amount.
+    - =SUM(I8-[@[True_Bill_Deduction]])
+- Nested "IF" condition. Determines deduction amount from income if optional "active" or "Split" values selected.
+    - =IF(D9="YES",IF(E9="YES",F9/2,F9), F9-F9)
+
+<br>
 
 
