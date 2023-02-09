@@ -13,7 +13,7 @@
 - Tax deduction of varying percentage.
     - =(G7-(H4*G4))
 - Difference from Income and True bill amount.
-    - =SUM(I8-[@[True_Bill_Deduction]])
+    - =SUM(I8-[@[True_Amount]])
 - Nested "IF" condition. Determines deduction amount from income if optional "active" or "Split" values selected.
     - =IF(D9="YES",IF(E9="YES",F9/2,F9), F9-F9)
 
