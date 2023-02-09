@@ -26,7 +26,9 @@
 
 ## Blank template included in download
 
-![chart1](https://user-images.githubusercontent.com/52839097/217931305-b975393b-6bf5-4f1f-bb96-095db8abc7aa.PNG)
+
+![chart1](https://user-images.githubusercontent.com/52839097/217944202-63363ad1-b942-4113-b246-ac7600a21fbf.PNG)
+
 
 ----
 
