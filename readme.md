@@ -2,7 +2,7 @@
 
 # Budget and Expenses Excel sheet
 
-## Calulates your end of month net income after taxes, bills and expenses.
+## Calculates your end of month net income after taxes, bills and expenses.
 -----
 
 ### Formulas used in this excel:
