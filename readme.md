@@ -24,7 +24,7 @@
 
 <br>
 
-## Blank template included in download
+## Example of blank template
 
 
 ![chart1](https://user-images.githubusercontent.com/52839097/217944202-63363ad1-b942-4113-b246-ac7600a21fbf.PNG)
